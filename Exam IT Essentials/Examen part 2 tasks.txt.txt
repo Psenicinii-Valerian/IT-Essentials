@@ -1,0 +1,12 @@
+ Intrebari:
+ 
+ 1) Sa se creeze un fisier .reg care permite stoparea serviciului Firewall in Windows;
+ 2) Descrieti succint urmatoarele componente ale calculatorului: placa de baza, procesorul, ventilatorul procesorului, ventilatorul carcasei calculatorului, memoria RAM,
+    tipurile de dispozitive de stocare, placa video, carcase, surse de alimentare (1-2 propozitii);
+ 3) Sa se creeze un script .shell care permite transmiterea unui email. Scriptul creat trebuie sa contina un atasament
+    care include raspunsul la toate intrebarile examenului respectiv. Unitatile de baza a scriptului trebuie sa
+    contina urmatoarele: sa se insereze destinatarii printr-un fisier.csv, sa se permita expedierea prin indicarea 
+    username si parola manual, sa se exporteze in format.txt rezultatele statistice ce tin de ora transmiterii 
+    mesajului, destinatarul;
+4)  Sa se creeze un task ce are functionalitate rularea scriptului de email care l-ati realizat anterior in fiecare zi de luni
+    pe o perioada de 3 luni sa fie exportat sa fie arhivat si inclus in atasamentul. (AM FOST ELIBERAT DE LA EX DAT!!!!!!!!!!)

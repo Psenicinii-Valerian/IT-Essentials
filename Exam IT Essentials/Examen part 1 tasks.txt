@@ -1,0 +1,11 @@
+   Intrebari:
+
+1) Sa se scrie un script la alegere shell sau bat care permite efectuarea unui stick sau partitii bootabile. 
+   La necesitate sa se utilizeze instructiunile Read-Host, Write-Host, @echo;
+
+2) Sa se creeze 4 conturi de utilizatori locali cu drepturi diferite: 1 utilizator prin intermediul fisierului 
+   bat, al 2-lea prin intermediul PowerShell care sa fie valid pentru o perioada de 20 de minute, urmatorii
+   2 utilizatori prin alte metode studiate la curs, prin screenshot;
+
+3) Sa se scrie un script Shell care va configura interfata de retea Internet cu valori pentru IP-adresa si 
+   netmask, citite de la tastatura.

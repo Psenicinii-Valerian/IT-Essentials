@@ -1,0 +1,26 @@
+
+ 1) Placa de baza (motherboard) este placa principală a unui calculator pe care sunt conectate restul componentelor si surselor de energie. Ea poate fi de mai multe tipuri
+    (form-factori): ATX (cea mai populara la moment), Micro-ATX (mai mic, care este proiectat pentru a fi compatibil cu ATX) , Mini-ITX (conceput pentru dispozitive mici), 
+    ITX (are dimensiuni foarte mici, proiectat pentru a fi compatibil cu Micro-ATX).
+ 2) Procesorul este un dispozitiv hardware al unui computer care pornind de la un set de instruсtiuni executa operațiuni aritmetice și logice, 
+    precum și operațiunile de intrare / ieșire (I/O input/output) ale sistemului. Pot exista picioruse la procesor de tip LGA (land grid array - produse de Intel de exemplu) 
+    si PGA (pin grid array - produse de AMD spre exemplu). Puterea procesorului se masoara dupa frecventa, numarul de nuclee, numarul de threaduri (fire de executie), etc.
+ 3) Ventilatorul procesorul este un sistem de racire activa care sta deasupra procesorului si il raceste. Viteza de racire depinde de viteza de rotire a ventilatorului.
+    De asemenea, el este atasat pe un radiator si trebuie sa reinnoim pasta termica la o anumita perioada ca el sa fucntioneze corect (la 0.5-1 an de dorit)
+ 4) Ventilatorul carcasei este de asemenea un sistem de racire activa care este atasata de carcasa propriu-zisa (prin suruburi deobicei). El in general scoate aerul cald din 
+    interiorul carcasei si il da afara si ia aerul rece de afara si il transmite in carcasa, racorind asadar componentele computerului.
+ 5) memoria RAM este memoria cu acces aleator in care se stocheaza datele cache. Odata cu oprirea calculatorului datele RAM-ului sunt sterse, iar odata cu pornirea computerului
+    el se initializeaza locul liber pentru stocarea noilor date cache. RAM-ul poate fi static (mai scump si mai rapid) si dinamic (SDRAM: SDR, DDR, DDR2, DDR3, DDR4, DDR5; GDDRAM: 
+    GDDRAM1, GDDRAM2, GDDRAM3, GDDRAM4, GDDRAM5 - folosita la placile grafice)
+ 6) Tipurile de dispozitive de stocare sunt: HDD (care este un dispozitiv electronic-mecanic pentru stocarea sau memorarea nevolatilă a datelor. Stocarea datelor se face pe o 
+    suprafață magnetică dispusă pe platane rotunde metalice rigide care se invart), SSD (care este un dispozitiv de stocare a datelor care folosește memorii cu semiconductori,
+    construite pe baza studiilor de fizica stării solide. El este mai rapid ca HDD), unitate optica (care este un dispozitiv care stochează informația pe suprafața unui disc și 
+    citește această informație prin iluminarea suprafeței cu un laser și observarea reflexiei, nu prea se foloseste in zilele noastre), unitate de banda (care este un mediu magnetic 
+    pentru stocare de informație analogică sau digitală. Inregistrările pe un suport cu banda magnetică se fac cu ajutorul unor echipamente care amplifică și transformă un semnal 
+    electric provenind de la un echipament audio-video sau alte date digitale, într-un câmp magnetic generat de o bobină, de asemenea nu este folosita in zilele noastre).
+ 7) Placa video este un card de expansiune a cărui funcție este de a genera imagini către un monitor. Este de asemenea des folosita in gaming. De asemenea, cu cat placa video este 
+    mai buna cu atat imaginea (daca ecranul permite) va fi mai calitativa.
+ 8) Carcasa sau case-ul computerului acel invelis in care sunt toate componentele hardware. Carcasa poate fi de 4 tipuri: orizontala, full-size tower, compact tower si all-in-one.
+ 9) Sursa de alimentare alimentează cu energie electrică toate celelalte componente cu cantitatea exactă de curent de care au nevoie și astfel asigură funcționarea lor.
+    Exista 3 tipuri de surse de alimentare: AT - mai vechi, ATX - versiune mai actualizata a AT, ATX12V - care este in prezent cel mai folosit si EPV12 - care a fost initial
+    conceput pentru servere, dar acum se folosese la calculatoarele mai puternice).
